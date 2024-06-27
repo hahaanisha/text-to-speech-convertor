@@ -49,3 +49,17 @@ button{
 button:hover{
     background-color: #4070f4;
 }
+
+h6{
+    font-size: 15px;
+}
+h6 a{
+    text-decoration: none;
+}
+
+#main{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
